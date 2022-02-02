@@ -1,0 +1,31 @@
+body
+{
+ font-family: 'Comfortaa', cursive;
+ background-color: turquoise;
+}
+.header_div{
+    background-color: black;
+    color: white;
+}
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:20;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+button{
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-top: 10px;
+    width: 100px;
+    font-weight: 30px;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    background-color:turquoise;
+    color: rgb(224, 64, 77);
+    width: 1500px;
+    font-size: 20px ;
+    margin-top: 75px;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
